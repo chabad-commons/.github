@@ -1089,8 +1089,8 @@ if ! step_done 16; then
         || echo "    [warn] ${plugin} install failed"
     done
 
-    # GabAI skills from the ChabadLabs marketplace
-    claude plugin marketplace add ChabadLabs/GabAIskills || echo "    [warn] GabAIskills marketplace add failed"
+    # GabAI skills from the Chabad Commons marketplace
+    claude plugin marketplace add chabad-commons/GabAIskills || echo "    [warn] GabAIskills marketplace add failed"
     claude plugin install gabai-core@gabai-skills --scope user || echo "    [warn] gabai-core install failed"
   else
     echo "    [skip] Claude Code not installed — skipping plugins"
