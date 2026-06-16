@@ -21,10 +21,8 @@ Browse, install, and share community-built AI skills. Share your custom skills v
 
 The power of AI isn't just in the models — it's in how we build together.
 
-- [chabadlabs.ai](https://chabadlabs.ai) — Tools, workshops, and resources
-- [Request access](https://github.com/ChabadLabs/.github/issues/new?template=access-request.yml) — Get started with GabAI
-- [Join the Builders Chat](https://chabadlabs.ai) — Connect with other shluchim building with AI
+- [Request access](https://github.com/chabad-commons/.github/issues/new?template=access-request.yml) — Get started with GabAI
 
 ---
 
-*ChabadLabs is built by volunteers. AI is a tool that amplifies your work — not a replacement.*
+*Chabad Commons is built by volunteers. AI is a tool that amplifies your work — not a replacement.*
