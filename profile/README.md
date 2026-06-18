@@ -8,7 +8,7 @@ Chabad Commons is a space where shluchim can build together and exchange ideas w
 
 ## GabAI
 
-A personal Shlichus AI assistant that runs on WhatsApp and Slack, originally forked from [Nanoclaw](https://github.com/nanocoai/nanoclaw). GabAI helps shluchim with scheduling, answering questions, managing WhatsApp groups, voice transcription, CRM automation and more.
+A personal Shlichus AI assistant that runs on WhatsApp and Slack, originally forked from [Nanoclaw](https://github.com/nanocoai/nanoclaw). [GabAI](https://github.com/chabad-commons/GabAI) helps shluchim with scheduling, answering questions, managing WhatsApp groups, voice transcription, CRM automation and more.
 
 **[Request access](https://github.com/chabad-commons/.github/issues/new?template=access-request.yml)** to get started.
 
@@ -21,7 +21,8 @@ Browse, install, and share community-built AI skills. Share your custom skills v
 
 The power of AI isn't just in the models — it's in how we build together.
 
-- [Request access](https://github.com/chabad-commons/.github/issues/new?template=access-request.yml) — Get started with GabAI
+- [Request access](https://github.com/chabad-commons/.github/issues/new?template=access-request.yml) — Get started with GabAI.
+- [Join the WhatsApp Chat](https://chat.whatsapp.com/HhVeGakTJ4YF2Qc28IxAHB?s=cl&p=i&mlu=2) - Collaborate with fellow shluchim, ask questions, share use cases and built together.
 
 ---
 
