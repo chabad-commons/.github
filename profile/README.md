@@ -26,6 +26,6 @@ The power of AI isn't just in the models — it's in how we build together.
 
 ---
 
-All projects from Chabad Commons are provided under [MIT License](LICENSE) unless stated otherwise. That means you can use it however you want, but if you redistribute this work, credit our work in what you distribute.
+All projects from Chabad Commons are provided under [MIT License]([LICENSE](https://github.com/chabad-commons/.github/blob/main/LICENSE)) unless stated otherwise. That means you can use it however you want, but if you redistribute this work, credit our work in what you distribute.
 
 *Chabad Commons is built by volunteers. AI is a tool that amplifies your work — not a replacement.*
